@@ -35,7 +35,7 @@ pip install PyPDF2 nltk pandas scikit-learn plotly
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/nlp-project.git
+git clone https://github.com/MenahilIkram/nlp-project.git
 
 2. Go to project folder:
 
